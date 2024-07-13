@@ -3,7 +3,7 @@
 
 Project_1:
 
-Project_2:
+Project_2:<p>
 To scan an image to identify if it's a cat or dog.
 
 Project_3:
